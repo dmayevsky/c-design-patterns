@@ -1,0 +1,15 @@
+{
+ "selected_config": "Debug",
+ "configs": [{
+   "name": "Debug",
+   "flags": 0,
+   "compile_flags": [],
+   "executable": "",
+   "arguments": "",
+   "environment": "",
+   "compiler": "MinGW ( C:\\Program Files\\mingw-w64\\mingw64\\bin\\ )",
+   "remoteFolder": "",
+   "remoteAccount": "",
+   "workingDirectory": ""
+  }]
+}

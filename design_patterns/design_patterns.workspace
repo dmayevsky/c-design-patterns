@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="design_patterns" Database="" Version="10000">
+  <Project Name="4_factory" Path="4_factory.project" Active="No"/>
+  <Project Name="9_composite" Path="../9_composite/9_composite.project" Active="No"/>
+  <Project Name="17_iterator" Path="../17_iterator/17_iterator.project" Active="No"/>
+  <Project Name="23_template" Path="../23_template/23_template.project" Active="No"/>
+  <Project Name="22_strategy" Path="../22_strategy/22_strategy.project" Active="No"/>
+  <Project Name="21_visitor" Path="../21_visitor/21_visitor.project" Active="No"/>
+  <Project Name="4b_diy_factory" Path="../4b_diy_factory/4b_diy_factory.project" Active="No"/>
+  <Project Name="23_diy_template" Path="../23_diy_template/23_diy_template.project" Active="No"/>
+  <Project Name="17_diy_composite" Path="../17_diy_composite/17_diy_composite.project" Active="Yes"/>
+  <Project Name="test_workspace" Path="../test_workspace/test_workspace.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="4_factory" ConfigName="Debug"/>
+      <Project Name="9_composite" ConfigName="Debug"/>
+      <Project Name="17_iterator" ConfigName="Debug"/>
+      <Project Name="23_template" ConfigName="Debug"/>
+      <Project Name="22_strategy" ConfigName="Debug"/>
+      <Project Name="21_visitor" ConfigName="Debug"/>
+      <Project Name="4b_diy_factory" ConfigName="Debug"/>
+      <Project Name="23_diy_template" ConfigName="Debug"/>
+      <Project Name="17_diy_composite" ConfigName="Debug"/>
+      <Project Name="test_workspace" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="4_factory" ConfigName="Release"/>
+      <Project Name="9_composite" ConfigName="Release"/>
+      <Project Name="17_iterator" ConfigName="Release"/>
+      <Project Name="23_template" ConfigName="Release"/>
+      <Project Name="22_strategy" ConfigName="Release"/>
+      <Project Name="21_visitor" ConfigName="Release"/>
+      <Project Name="4b_diy_factory" ConfigName="Release"/>
+      <Project Name="23_diy_template" ConfigName="Release"/>
+      <Project Name="17_diy_composite" ConfigName="Release"/>
+      <Project Name="test_workspace" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

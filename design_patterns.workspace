@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="design_patterns" Database="" Version="10000">
+  <VirtualDirectory Name="9_composite">
+    <Project Name="9_array_backed_properties" Path="../9_array_backed_properties/9_array_backed_properties/9_array_backed_properties.project" Active="No"/>
+    <Project Name="9_composite_neurons" Path="9_composite_neurons/9_composite_neurons.project" Active="No"/>
+    <Project Name="9_composite_shapes" Path="../9_composite_shapes/9_composite_shapes.project" Active="No"/>
+    <Project Name="4_exercise" Path="9_composite/4_exercise/4_exercise/4_exercise.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="23_template">
+    <Project Name="3_exercsie" Path="23_template/3_exercsie/3_exercsie.project" Active="No"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="4_factory">
+    <Project Name="exercise" Path="4_factory/exercise/exercise.project" Active="Yes"/>
+    <Project Name="exercise" Path="4_factory/exercise/exercise/exercise.project" Active="Yes"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="17_iterator">
+    <Project Name="exercise" Path="17_iterator/exercise/exercise.project" Active="Yes"/>
+    <Project Name="exercise" Path="17_iterator/exercise/exercise.project" Active="Yes"/>
+    <Project Name="exercise" Path="17_iterator/exercise/exercise/exercise.project" Active="Yes"/>
+    <Project Name="exercise" Path="17_iterator/exercise/exercise.project"/>
+  </VirtualDirectory>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1_shapes" ConfigName="Debug"/>
+      <Project Name="2_neurons_buggy" ConfigName="Debug"/>
+      <Project Name="3_array_backed_properties" ConfigName="Debug"/>
+      <Project Name="4_exercise" ConfigName="Debug"/>
+      <Project Name="3_exercsie" ConfigName="Debug"/>
+      <Project Name="exercise" ConfigName="Debug"/>
+      <Project Name="exercise" ConfigName="Debug"/>
+      <Project Name="exercise" ConfigName="Debug"/>
+      <Project Name="exercise" ConfigName="Debug"/>
+      <Project Name="exercise" ConfigName="Debug"/>
+      <Project Name="exercise" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1_shapes" ConfigName="Release"/>
+      <Project Name="2_neurons_buggy" ConfigName="Release"/>
+      <Project Name="3_array_backed_properties" ConfigName="Release"/>
+      <Project Name="4_exercise" ConfigName="Release"/>
+      <Project Name="3_exercsie" ConfigName="Release"/>
+      <Project Name="exercise" ConfigName="Release"/>
+      <Project Name="exercise" ConfigName="Release"/>
+      <Project Name="exercise" ConfigName="Release"/>
+      <Project Name="exercise" ConfigName="Release"/>
+      <Project Name="exercise" ConfigName="Release"/>
+      <Project Name="exercise" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
